@@ -1,0 +1,857 @@
+{
+	"sticky-dance": {
+		"name": "Sticky Dance",
+		"url": "https://cdn.discordapp.com/emojis/1202567809285095485.gif",
+		"tags": ["dance", "lights"]
+	},
+	"anime-girl-dance": {
+		"name": "Anime Girl Dance",
+		"url": "https://cdn.discordapp.com/emojis/515424732116549652.gif",
+		"tags": ["dance", "anime"]
+	},
+	"zero2-jumping": {
+		"name": "Zero2 Jumping",
+		"url": "https://cdn.discordapp.com/emojis/1086770239162810459.gif",
+		"tags": ["joy", "jumping", "anime", "zero2"]
+	},
+	"new-blush": {
+		"name": "New Blush",
+		"url": "https://cdn.discordapp.com/emojis/769114081167671297.gif",
+		"tags": ["blush"]
+	},
+	"kawaii-dance": {
+		"name": "Kawaii Dance",
+		"url": "https://cdn.discordapp.com/emojis/778353734816235560.gif",
+		"tags": ["kawaii", "dance", "anime"]
+	},
+	"blushed-cat": {
+		"name": "Blushed cat",
+		"url": "https://cdn.discordapp.com/emojis/747264107371298857.webp",
+		"tags": ["blush", "cat", "cute"]
+	},
+	"yor-blush": {
+		"name": "yor Blush",
+		"url": "https://cdn.discordapp.com/emojis/602965148390522997.webp",
+		"tags": ["yor", "spy x family", "blush", "anime"]
+	},
+	"loid-blush": {
+		"name": "Loid Blush",
+		"url": "https://cdn.discordapp.com/emojis/600726928563109939.webp",
+		"tags": ["loid", "spy x famliy", "anime", "blush"]
+	},
+	"cat-slap": {
+		"name": "cat slap",
+		"url": "https://cdn.discordapp.com/emojis/1069130874622320721.gif",
+		"tags": ["cat", "slap"]
+	},
+	"cat-cute": {
+		"name": "cat Cute",
+		"url": "https://cdn.discordapp.com/emojis/758045833357951056.gif",
+		"tags": ["cat", "cute"]
+	},
+	"hug": {
+		"name": "hug",
+		"url": "https://cdn.discordapp.com/emojis/843342957615644692.gif",
+		"tags": ["anime", "hug", "cute"]
+	},
+	"hanekawa": {
+		"name": "Hanekawa",
+		"url": "https://cdn.discordapp.com/emojis/515428097437204483.gif",
+		"tags": ["hanekawa", "anime", "girl"]
+	},
+	"yui-hug": {
+		"name": "Yui hug",
+		"url": "https://cdn.discordapp.com/emojis/580919818824187914.gif",
+		"tags": ["yui", "k-kon", "k on", "anime", "hug"]
+	},
+	"hug-extreme": {
+		"name": "hug Extreme",
+		"url": "https://cdn.discordapp.com/emojis/581184568812634122.gif",
+		"tags": ["hug", "red-eyes"]
+	},
+	"laugh": {
+		"name": "Laugh",
+		"url": "https://cdn.discordapp.com/emojis/581598053367021568.gif",
+		"tags": ["laugh", "anime"]
+	},
+	"kawaii-hug": {
+		"name": "Kawaii hug",
+		"url": "https://cdn.discordapp.com/emojis/586126550227746817.gif",
+		"tags": ["kawaii", "anime", "hug"]
+	},
+	"ashoka-shocked": {
+		"name": "Ashoka Shocked",
+		"url": "https://cdn.discordapp.com/emojis/729896003469049996.gif",
+		"tags": ["ashoka", "shocked", "star wars"]
+	},
+	"anya-hug": {
+		"name": "Anya hug",
+		"url": "https://cdn.discordapp.com/emojis/992810862236663908.gif",
+		"tags": ["anya", "spy x family", "hug", "anime"]
+	},
+	"slam-head": {
+		"name": "Slam Head",
+		"url": "https://cdn.discordapp.com/emojis/802351243858673684.gif",
+		"tags": ["slam head", "sad", "crying"]
+	},
+	"pepe-laugh": {
+		"name": "pepe-Laugh",
+		"url": "https://cdn.discordapp.com/emojis/1017515898870956154.gif",
+		"tags": ["pepe", "laugh"]
+	},
+	"pepe-laugh-friends": {
+		"name": "pepe-Laugh Friends",
+		"url": "https://cdn.discordapp.com/emojis/1055961444673409045.gif",
+		"tags": ["pepe", "laugh", "friends"]
+	},
+	"giblet-gun": {
+		"name": "Giblet Gun",
+		"url": "https://cdn.discordapp.com/emojis/688314051683418122.webp",
+		"tags": ["gun", "cute"]
+	},
+	"anya-bashing": {
+		"name": "Anya Bashing Hands on Table",
+		"url": "https://cdn.discordapp.com/emojis/992811115434225664.gif",
+		"tags": ["anya", "spy x family", "excited"]
+	},
+	"anya-excited": {
+		"name": "Anay Excited 02",
+		"url": "https://cdn.discordapp.com/emojis/992811054755233843.gif",
+		"tags": ["anya", "spy x family", "anime", "excited"]
+	},
+	"anya-dancing": {
+		"name": "Anya Dancing",
+		"url": "https://cdn.discordapp.com/emojis/992810944856084490.gif",
+		"tags": ["anya", "spy x famliy", "dance", "anime"]
+	},
+	"anya-waku-waku": {
+		"name": "Anya Excited 01",
+		"url": "https://cdn.discordapp.com/emojis/992811019950891018.gif",
+		"tags": ["anya", "excited", "spy x famliy", "anime"]
+	},
+	"wot": {
+		"name": "Wot",
+		"url": "https://cdn.discordapp.com/emojis/830571668657143819.webp",
+		"tags": ["wot", "shocked", "cat"]
+	},
+	"anya-shocked": {
+		"name": "Anya Shocked",
+		"url": "https://cdn.discordapp.com/emojis/992810739754598420.gif",
+		"tags": ["anya", "spy x famliy", "anime", "shocked"]
+	},
+	"pickachu-what": {
+		"name": "Pickachu What",
+		"url": "https://cdn.discordapp.com/emojis/1097794050729443401.webp",
+		"tags": ["pikachu", "pokemon", "shocked", "what"]
+	},
+	"pepe-disappointed": {
+		"name": "pepe-Disappointed",
+		"url": "https://cdn.discordapp.com/emojis/1127919281796022282.webp",
+		"tags": ["pepe", "disappointed"]
+	},
+	"bear-slap": {
+		"name": "Bear slap",
+		"url": "https://cdn.discordapp.com/emojis/1232615226529026089.gif",
+		"tags": ["slap", "cute"]
+	},
+	"sad-in-rain": {
+		"name": "Sad in Rain",
+		"url": "https://cdn.discordapp.com/emojis/990154145761722378.gif",
+		"tags": ["sad", "pepe", "rain"]
+	},
+	"unlimited-power": {
+		"name": "Unlimited Power",
+		"url": "https://cdn.discordapp.com/emojis/707259903483314297.gif",
+		"tags": ["star wars", "power", "palpatine"]
+	},
+	"evil-patrick": {
+		"name": "Evil patrick",
+		"url": "https://cdn.discordapp.com/emojis/784853860463411271.webp",
+		"tags": ["evil", "patrick", "spongebob"]
+	},
+	"angry": {
+		"name": "Angry",
+		"url": "https://cdn.discordapp.com/emojis/451548046950531083.gif",
+		"tags": ["angry"]
+	},
+	"frog-ok": {
+		"name": "Frog OK",
+		"url": "https://cdn.discordapp.com/emojis/851335403985960960.webp",
+		"tags": ["frog", "ok", "good"]
+	},
+	"zoro-laugh": {
+		"name": "Zoro Laugh",
+		"url": "https://cdn.discordapp.com/emojis/887044468585410580.gif",
+		"tags": ["zoro", "laugh", "one piece"]
+	},
+	"azu-laugh": {
+		"name": "Azu Laugh",
+		"url": "https://cdn.discordapp.com/emojis/888469193362669669.gif",
+		"tags": ["azu", "laugh", "k-on"]
+	},
+	"learn-this": {
+		"name": "Learn This Power",
+		"url": "https://cdn.discordapp.com/emojis/730042581991424041.gif",
+		"tags": ["anakin", "star wars", "power"]
+	},
+	"anakin-underestimate": {
+		"name": "Anakin Underestimate Power",
+		"url": "https://cdn.discordapp.com/emojis/707259891949109288.gif",
+		"tags": ["Anakin", "Star Wars", "Power"]
+	},
+	"garp-pathetic": {
+		"name": "Garp pathetic",
+		"url": "https://cdn.discordapp.com/emojis/454408355109273600.webp",
+		"tags": ["garp", "one piece", "pathetic"]
+	},
+	"cry-anime-girl": {
+		"name": "Cry",
+		"url": "https://cdn.discordapp.com/emojis/706380003025092720.gif",
+		"tags": ["k-on", "cry", "KON"]
+	},
+	"cat-cry": {
+		"name": "Ancry",
+		"url": "https://cdn.discordapp.com/emojis/758068973475594401.gif",
+		"tags": ["cry", "cat", "sad"]
+	},
+	"cool-cry": {
+		"name": "Cry",
+		"url": "https://cdn.discordapp.com/emojis/1170487887515627611.webp",
+		"tags": ["cry", "cool cry"]
+	},
+	"pepe-cry-submerge": {
+		"name": "pepe-Cry",
+		"url": "https://cdn.discordapp.com/emojis/1089034855884537896.gif",
+		"tags": ["pepe", "cry", "sad"]
+	},
+	"pepe-hang": {
+		"name": "pepe-Hang",
+		"url": "https://cdn.discordapp.com/emojis/1053730461588918352.gif",
+		"tags": ["pepe", "hang", "sad"]
+	},
+	"cool": {
+		"name": "Cool",
+		"url": "https://cdn.discordapp.com/emojis/791735147120558120.webp",
+		"tags": ["gucci", "cool"]
+	},
+	"take-notes": {
+		"name": "Take Notes",
+		"url": "https://cdn.discordapp.com/emojis/878838578543722546.gif",
+		"tags": ["take", "notes"]
+	},
+	"naruohodo": {
+		"name": "Naruohodo",
+		"url": "https://cdn.discordapp.com/emojis/959892791851356291.gif",
+		"tags": ["naruhodo", "taking notes"]
+	},
+	"02-bounce": {
+		"name": "02 Bounce",
+		"url": "https://cdn.discordapp.com/emojis/777956848602185738.gif",
+		"tags": ["02", "zero two", "bounce", "jump"]
+	},
+	"fight": {
+		"name": "Fight",
+		"url": "https://cdn.discordapp.com/emojis/768489104144203796.gif",
+		"tags": ["fight", "me", "cute"]
+	},
+	"peepo-boxing": {
+		"name": "Peepo Boxing",
+		"url": "https://cdn.discordapp.com/emojis/640558688662192139.gif",
+		"tags": ["peepo", "pepe", "boxing", "boxer"]
+	},
+	"nitro-ad": {
+		"name": "Nitro Ad",
+		"url": "https://cdn.discordapp.com/emojis/854900463782199296.gif",
+		"tags": ["nitro", "ad", "discord"]
+	},
+	"smug": {
+		"name": "Smug",
+		"url": "https://cdn.discordapp.com/emojis/231960671502336000.webp",
+		"tags": ["smug", "anime"]
+	},
+	"giga-chad": {
+		"name": "Giga Chad",
+		"url": "https://cdn.discordapp.com/emojis/1016409748586905711.gif",
+		"tags": ["giga", "chad"]
+	},
+	"cat-gasp": {
+		"name": "cat Gasp",
+		"url": "https://cdn.discordapp.com/emojis/885864953985261608.webp",
+		"tags": ["cat", "gasp"]
+	},
+	"cute-cat-gun": {
+		"name": "cat Gun",
+		"url": "https://cdn.discordapp.com/emojis/885864936868282418.webp",
+		"tags": ["cat", "gun"]
+	},
+	"paki-pepe": {
+		"name": "Paki Pepe",
+		"url": "https://cdn.discordapp.com/emojis/964479928999481354.webp",
+		"tags": ["pakistan", "pepe"]
+	},
+	"fight-me": {
+		"name": "Fight Me",
+		"url": "https://cdn.discordapp.com/emojis/659188664424857600.gif",
+		"tags": ["fight"]
+	},
+	"fat": {
+		"name": "fat",
+		"url": "https://cdn.discordapp.com/emojis/1038197782814674954.webp",
+		"tags": ["moti", "fat", "pepe"]
+	},
+	"pepe-simp": {
+		"name": "pepe-SIMP",
+		"url": "https://cdn.discordapp.com/emojis/837556345581862932.gif",
+		"tags": ["pepe", "simp"]
+	},
+	"simp-exposed": {
+		"name": "SIMP Exposed",
+		"url": "https://cdn.discordapp.com/emojis/744238489863847966.gif",
+		"tags": ["SIMP", "exposed", "pepe"]
+	},
+	"vibe-cat": {
+		"name": "Vibe cat",
+		"url": "https://cdn.discordapp.com/emojis/853701270647865358.gif",
+		"tags": ["vibe", "cat"]
+	},
+	"borat-nice": {
+		"name": "Borat Nice",
+		"url": "https://cdn.discordapp.com/emojis/853299243775426571.webp",
+		"tags": ["nice", "borat"]
+	},
+	"wave": {
+		"name": "Wave",
+		"url": "https://cdn.discordapp.com/emojis/812811022389346314.gif",
+		"tags": ["ghost", "wave", "hi"]
+	},
+	"spongebob-leave": {
+		"name": "Spongebob Leave",
+		"url": "https://cdn.discordapp.com/emojis/989448819370496101.gif",
+		"tags": ["spongebob", "leave"]
+	},
+	"typing-cat": {
+		"name": "Typing cat",
+		"url": "https://cdn.discordapp.com/emojis/811302007784079361.gif",
+		"tags": ["typing", "cat"]
+	},
+	"kivi-cat": {
+		"name": "Kivi cat Run",
+		"url": "https://cdn.discordapp.com/emojis/1222610449313562656.gif",
+		"tags": ["kivi", "cat", "run"]
+	},
+	"cat-bruh": {
+		"name": "cat Bruh",
+		"url": "https://cdn.discordapp.com/emojis/866787006637932544.gif",
+		"tags": ["cat", "bruh", "cool"]
+	},
+	"sad-guitar": {
+		"name": "Sad Guitar",
+		"url": "https://cdn.discordapp.com/emojis/1092793525046878219.gif",
+		"tags": ["sad", "guitar", "bear"]
+	},
+	"anya-sleep": {
+		"name": "Anya Sleep",
+		"url": "https://cdn.discordapp.com/emojis/1043931013706940447.webp",
+		"tags": ["Anay", "Spy x Family", "Sleep"]
+	},
+	"pepe-clown": {
+		"name": "pepe-Clown",
+		"url": "https://cdn.discordapp.com/emojis/1060558164581417032.webp",
+		"tags": ["pepe", "clown"]
+	},
+	"kirby-bye": {
+		"name": "Kirby Bye",
+		"url": "https://cdn.discordapp.com/emojis/393639541233287169.gif",
+		"tags": ["kirby", "bye"]
+	},
+	"bear-smh": {
+		"name": "bear smh",
+		"url": "https://cdn.discordapp.com/emojis/891679503611473940.gif",
+		"tags": ["bear", "smh"]
+	},
+	"emoji-cool": {
+		"name": "Emoji Cool",
+		"url": "https://cdn.discordapp.com/emojis/875098593483190393.gif",
+		"tags": ["cool"]
+	},
+	"anya-cool": {
+		"name": "Anya Cool",
+		"url": "https://cdn.discordapp.com/emojis/646052319217188894.gif",
+		"tags": ["cool", "anya", "spy x famliy"]
+	},
+	"nerd": {
+		"name": "Nerd",
+		"url": "https://cdn.discordapp.com/emojis/1141898045856952400.gif",
+		"tags": ["nerd"]
+	},
+	"jesus": {
+		"name": "Jesus",
+		"url": "https://cdn.discordapp.com/emojis/692098363595948043.webp",
+		"tags": ["jesus"]
+	},
+	"brain": {
+		"name": "brain",
+		"url": "https://cdn.discordapp.com/emojis/582388547789783040.webp",
+		"tags": ["brain"]
+	},
+	"thinking": {
+		"name": "Thinking",
+		"url": "https://cdn.discordapp.com/emojis/1093805252031021056.gif",
+		"tags": ["thinking", "pepe"]
+	},
+	"bored": {
+		"name": "bored",
+		"url": "https://cdn.discordapp.com/emojis/931974031622701086.webp",
+		"tags": ["bored"]
+	},
+	"pepe-popcorn-slow": {
+		"name": "pepe-Popcorn",
+		"url": "https://cdn.discordapp.com/emojis/1016285896254963743.gif",
+		"tags": ["pepe", "popcorn"]
+	},
+	"ded": {
+		"name": "ded",
+		"url": "https://cdn.discordapp.com/emojis/1018096406365478932.gif",
+		"tags": ["ded", "dead", "chat dead"]
+	},
+	"angry-ping": {
+		"name": "Angry Ping",
+		"url": "https://cdn.discordapp.com/emojis/422861506280030219.gif",
+		"tags": ["angry", "ping"]
+	},
+	"pepe-riot": {
+		"name": "pepe-Riot",
+		"url": "https://cdn.discordapp.com/emojis/1204253003964751892.gif",
+		"tags": ["pepe", "riot"]
+	},
+	"yor-clap": {
+		"name": "yor clap",
+		"url": "https://cdn.discordapp.com/emojis/1003310437842047067.gif",
+		"tags": ["yor", "spy x family"]
+	},
+	"clap": {
+		"name": "clap",
+		"url": "https://cdn.discordapp.com/emojis/584087877189763091.gif",
+		"tags": ["clap"]
+	},
+	"pepe-spit": {
+		"name": "pepe spit",
+		"url": "https://cdn.discordapp.com/emojis/935193202724585492.webp",
+		"tags": ["pepe", "spit"]
+	},
+	"mad": {
+		"name": "Mad",
+		"url": "https://cdn.discordapp.com/emojis/1141319209691910214.webp",
+		"tags": ["patrick", "mad"]
+	},
+	"chappal": {
+		"name": "Chappal",
+		"url": "https://cdn.discordapp.com/emojis/1259633033644998706.webp",
+		"tags": ["chappal", "pepe"]
+	},
+	"susge": {
+		"name": "susge",
+		"url": "https://cdn.discordapp.com/emojis/1090467063946035250.webp",
+		"tags": ["sus", "pepe"]
+	},
+	"suskayge": {
+		"name": "suskayge",
+		"url": "https://cdn.discordapp.com/emojis/1090467097018114069.webp",
+		"tags": ["sus", "pepe"]
+	},
+	"pepe-tux-cool": {
+		"name": "pepe-Tux",
+		"url": "https://cdn.discordapp.com/emojis/1257105924334682162.webp",
+		"tags": ["pepe", "tux", "cool"]
+	},
+	"pepe-tux": {
+		"name": "pepe-Tux",
+		"url": "https://cdn.discordapp.com/emojis/1065165361990873088.webp",
+		"tags": ["pepe", "tux"]
+	},
+	"pepe-hug": {
+		"name": "pepe-hug",
+		"url": "https://cdn.discordapp.com/emojis/640558683079704596.webp",
+		"tags": ["pepe", "hug"]
+	},
+	"chefs-kiss": {
+		"name": "Chefs Kiss",
+		"url": "https://cdn.discordapp.com/emojis/834123786588127254.webp",
+		"tags": ["chefs kiss"]
+	},
+	"slap": {
+		"name": "slap",
+		"url": "https://cdn.discordapp.com/emojis/872561041308004393.gif",
+		"tags": ["slap"]
+	},
+	"spank-anime": {
+		"name": "Spank",
+		"url": "https://cdn.discordapp.com/emojis/887044468241481799.gif",
+		"tags": ["spank"]
+	},
+	"anine-punches": {
+		"name": "Punch",
+		"url": "https://cdn.discordapp.com/emojis/600157592005640202.gif",
+		"tags": ["anime", "punch"]
+	},
+	"punches": {
+		"name": "Punch",
+		"url": "https://cdn.discordapp.com/emojis/814719566415921182.gif",
+		"tags": ["punch"]
+	},
+	"pepe-punch": {
+		"name": "pepe-Punch",
+		"url": "https://cdn.discordapp.com/emojis/1018094084881125497.gif",
+		"tags": ["pepe", "punch"]
+	},
+	"pepe-coffee": {
+		"name": "pepe-Coffee",
+		"url": "https://cdn.discordapp.com/emojis/1093805231390863370.gif",
+		"tags": ["pepe", "coffee"]
+	},
+	"ussop-sus": {
+		"name": "Ussop Sus",
+		"url": "https://cdn.discordapp.com/emojis/849549148059336714.webp",
+		"tags": ["ussop", "one piece", "sus"]
+	},
+	"akainu-point": {
+		"name": "Akainu Point",
+		"url": "https://cdn.discordapp.com/emojis/682557014144188416.webp",
+		"tags": ["akainu", "point"]
+	},
+	"doffy": {
+		"name": "Doffy",
+		"url": "https://cdn.discordapp.com/emojis/586408476025028608.webp",
+		"tags": ["doffy", "one piece"]
+	},
+	"enel-shocked": {
+		"name": "Enel Shocked",
+		"url": "https://cdn.discordapp.com/emojis/701661700432199701.gif",
+		"tags": ["enel", "one piece", "shocked"]
+	},
+	"dark-sanji": {
+		"name": "Dark Sanji",
+		"url": "https://cdn.discordapp.com/emojis/852869879543365643.gif",
+		"tags": ["dark", "sanji", "one piece"]
+	},
+	"sanji-smoke": {
+		"name": "Sanji Smoke",
+		"url": "https://cdn.discordapp.com/emojis/648170928118956042.webp",
+		"tags": ["sanji", "one piece", "smoke"]
+	},
+	"lfg": {
+		"name": "LFG",
+		"url": "https://cdn.discordapp.com/emojis/1017043030928269372.webp",
+		"tags": ["lfg", "fucking go"]
+	},
+	"chad-zoro": {
+		"name": "chad zoro",
+		"url": "https://cdn.discordapp.com/emojis/995961012459147385.webp",
+		"tags": ["zoro", "chad"]
+	},
+	"luffy-cringe": {
+		"name": "Luffy Cringe",
+		"url": "https://cdn.discordapp.com/emojis/860458056894119937.gif",
+		"tags": ["luffy", "cringe"]
+	},
+	"nami-money": {
+		"name": "Nami Money",
+		"url": "https://cdn.discordapp.com/emojis/586664755536724030.webp",
+		"tags": ["name", "money", "one piece"]
+	},
+	"nami-wink": {
+		"name": "Nami Wink",
+		"url": "https://cdn.discordapp.com/emojis/581268191955910667.gif",
+		"tags": ["nami", "wink", "one piece"]
+	},
+	"nami-pinged": {
+		"name": "Nami Pinged",
+		"url": "https://cdn.discordapp.com/emojis/638084435278823433.webp",
+		"tags": ["nami", "pinged", "one piece"]
+	},
+	"dead-chat": {
+		"name": "dead chat",
+		"url": "https://cdn.discordapp.com/emojis/857117930966089749.gif",
+		"tags": ["dead", "chat"]
+	},
+	"hmph": {
+		"name": "Hmph",
+		"url": "https://cdn.discordapp.com/emojis/1232615558407782460.gif",
+		"tags": ["hmph"]
+	},
+	"no-u-mugi": {
+		"name": "No U",
+		"url": "https://cdn.discordapp.com/emojis/768489104022175784.webp",
+		"tags": ["No u"]
+	},
+	"no-u-anime-girl": {
+		"name": "No U",
+		"url": "https://cdn.discordapp.com/emojis/687383359768363079.gif",
+		"tags": ["asuna", "no u"]
+	},
+	"dil-tut": {
+		"name": "Dil Tut Gai",
+		"url": "https://cdn.discordapp.com/emojis/1015303244148396063.webp",
+		"tags": ["dil", "heart broke"]
+	},
+	"gojo-twerk": {
+		"name": "Gojo Twerk",
+		"url": "https://cdn.discordapp.com/emojis/1258660969110835203.gif",
+		"tags": ["gojo", "twerk"]
+	},
+	"twerk": {
+		"name": "Twerk",
+		"url": "https://cdn.discordapp.com/emojis/1220747780247523328.gif",
+		"tags": ["twerk"]
+	},
+	"cat-pfft": {
+		"name": "cat PFFT",
+		"url": "https://cdn.discordapp.com/emojis/665669173447229450.gif",
+		"tags": ["cat", "pfft"]
+	},
+	"drool": {
+		"name": "Drool",
+		"url": "https://cdn.discordapp.com/emojis/755992030831968354.gif",
+		"tags": ["drool"]
+	},
+	"disco-cat": {
+		"name": "disco cat",
+		"url": "https://cdn.discordapp.com/emojis/944683033389326346.gif",
+		"tags": ["disco cat"]
+	},
+	"cat-stare": {
+		"name": "cat Stare",
+		"url": "https://cdn.discordapp.com/emojis/1018521851019923496.gif",
+		"tags": ["cat", "stare"]
+	},
+	"cat-jammin": {
+		"name": "cat jammin",
+		"url": "https://cdn.discordapp.com/emojis/1201262511094251662.gif",
+		"tags": ["cat", "jammin", "dancing"]
+	},
+	"jesse-cat-gun": {
+		"name": "cat Gun",
+		"url": "https://cdn.discordapp.com/emojis/1017079430360862813.gif",
+		"tags": ["cat", "gun"]
+	},
+	"cat-gun": {
+		"name": "cat Gun",
+		"url": "https://cdn.discordapp.com/emojis/1105487272092106752.gif",
+		"tags": ["cat", "gun"]
+	},
+	"pepe-tongue": {
+		"name": "pepe-Tongue",
+		"url": "https://cdn.discordapp.com/emojis/1053048138404995143.gif",
+		"tags": ["pepe", "tongue"]
+	},
+	"bleach-sip": {
+		"name": "Bleach Sip",
+		"url": "https://cdn.discordapp.com/emojis/448525172224294914.gif",
+		"tags": ["bleach", "sip"]
+	},
+	"aaaaaa": {
+		"name": "AAAAAA",
+		"url": "https://cdn.discordapp.com/emojis/987141585542217738.gif",
+		"tags": ["aaaaaaaa", "fish", "screaming"]
+	},
+	"pepe-scared": {
+		"name": "pepe-Scared",
+		"url": "https://cdn.discordapp.com/emojis/1130995069906866308.webp",
+		"tags": ["pepe", "scared"]
+	},
+	"anya-baldy": {
+		"name": "Anya Baldy",
+		"url": "https://cdn.discordapp.com/emojis/1001903864729043094.webp",
+		"tags": ["anya", "baldy"]
+	},
+	"kanna-cry": {
+		"name": "Kanna Cry",
+		"url": "https://cdn.discordapp.com/emojis/768489105246912562.gif",
+		"tags": ["kanna", "cry", "sad"]
+	},
+	"kanna-gtfo": {
+		"name": "Kanna GTFO",
+		"url": "https://cdn.discordapp.com/emojis/768489103623716895.webp",
+		"tags": ["kanna", "gtfo", "angry"]
+	},
+	"my-eyes": {
+		"name": "My Eyes",
+		"url": "https://cdn.discordapp.com/emojis/774685930799104010.gif",
+		"tags": ["spongebob"]
+	},
+	"doggo-wot": {
+		"name": "Doggo Wot",
+		"url": "https://cdn.discordapp.com/emojis/770164987686944769.gif",
+		"tags": ["dog", "what", "confused"]
+	},
+	"peepo-sleep": {
+		"name": "Peepo Sleep",
+		"url": "https://cdn.discordapp.com/emojis/769114082350465034.gif",
+		"tags": ["pepe", "sleep"]
+	},
+	"peepo-business": {
+		"name": "Peepo Business",
+		"url": "https://cdn.discordapp.com/emojis/1200129599317757983.webp",
+		"tags": ["pepe", "business"]
+	},
+	"kyomi": {
+		"name": "Kyomi",
+		"url": "https://cdn.discordapp.com/emojis/515429517246988289.gif",
+		"tags": ["kyomo", "monogatari"]
+	},
+	"noo": {
+		"name": "Noo",
+		"url": "https://cdn.discordapp.com/emojis/393568093164797953.gif",
+		"tags": ["NOO"]
+	},
+	"kick": {
+		"name": "Kick",
+		"url": "https://cdn.discordapp.com/emojis/1258816411539607683.webp",
+		"tags": ["kick"]
+	},
+	"ryu-kick": {
+		"name": "Ryu Kick",
+		"url": "https://cdn.discordapp.com/emojis/989454057204768808.gif",
+		"tags": ["ryu", "kick"]
+	},
+	"fuck": {
+		"name": "fuck",
+		"url": "https://cdn.discordapp.com/emojis/1023713179718652036.webp",
+		"tags": ["fuck", "pepe"]
+	},
+	"yuck": {
+		"name": "YUCK",
+		"url": "https://cdn.discordapp.com/emojis/618168741754306561.webp",
+		"tags": ["pepe", "yuck"]
+	},
+	"jerry-cry": {
+		"name": "Jerry Cry",
+		"url": "https://cdn.discordapp.com/emojis/1202134346929274890.gif",
+		"tags": ["jerry", "cry", "sad"]
+	},
+	"cat-blush": {
+		"name": "cat Blush",
+		"url": "https://cdn.discordapp.com/emojis/774980484530307082.webp",
+		"tags": ["cat", "blush"]
+	},
+	"spank": {
+		"name": "Spank",
+		"url": "https://cdn.discordapp.com/emojis/1147936731862155425.gif",
+		"tags": ["spank"]
+	},
+	"kiss-mooch": {
+		"name": "Kiss Mooch",
+		"url": "https://cdn.discordapp.com/emojis/817358797949370428.gif",
+		"tags": ["kiss", "mooch"]
+	},
+	"pepe-popcorn": {
+		"name": "pepe-Popcorn",
+		"url": "https://cdn.discordapp.com/emojis/455856766014717952.gif",
+		"tags": ["pepe", "popcorn"]
+	},
+	"scared": {
+		"name": "Scared",
+		"url": "https://cdn.discordapp.com/emojis/758067604362493972.gif",
+		"tags": ["scared"]
+	},
+	"pepe-wink": {
+		"name": "pepe-Wink",
+		"url": "https://cdn.discordapp.com/emojis/1267179893813153853.gif",
+		"tags": ["pepe", "wink"]
+	},
+	"hmmm-squint": {
+		"name": "hmmm squint",
+		"url": "https://cdn.discordapp.com/emojis/1134123408909668445.webp",
+		"tags": ["hmmm", "pepe", "squint"]
+	},
+	"think": {
+		"name": "Think",
+		"url": "https://cdn.discordapp.com/emojis/1131010099780005909.webp",
+		"tags": ["think"]
+	},
+	"copium": {
+		"name": "Copium",
+		"url": "https://cdn.discordapp.com/emojis/1017070693264937070.webp",
+		"tags": ["copium"]
+	},
+	"sus-notes": {
+		"name": "sus notes",
+		"url": "https://cdn.discordapp.com/emojis/1079033474477993984.webp",
+		"tags": ["sus", "notes"]
+	},
+	"pepe-rizz": {
+		"name": "pepe-Rizz",
+		"url": "https://cdn.discordapp.com/emojis/1268961981973528697.webp",
+		"tags": ["pepe", "rizz"]
+	},
+	"handshake": {
+		"name": "Handshake",
+		"url": "https://cdn.discordapp.com/emojis/1025100595121618984.webp",
+		"tags": ["handshake", "pepe"]
+	},
+	"peepo-swing": {
+		"name": "Peepo Swing",
+		"url": "https://cdn.discordapp.com/emojis/1256309248560726169.gif",
+		"tags": ["peepo", "swing", "sad"]
+	},
+	"pepe-lanat": {
+		"name": "pepe-Lanat",
+		"url": "https://cdn.discordapp.com/emojis/1247488754663292968.webp",
+		"tags": ["pepe", "lanat"]
+	},
+	"pepe-fat": {
+		"name": "pepe-Fat",
+		"url": "https://cdn.discordapp.com/emojis/1222219185279471780.webp",
+		"tags": ["pepe", "fat"]
+	},
+	"crazy-cat": {
+		"name": "Crazy cat",
+		"url": "https://cdn.discordapp.com/emojis/1202132419365310534.gif",
+		"tags": ["crazy", "cat"]
+	},
+	"dance": {
+		"name": "dance",
+		"url": "https://cdn.discordapp.com/emojis/1290680027125514310.gif",
+		"tags": ["dance"]
+	},
+	"grin": {
+		"name": "Grin",
+		"url": "https://cdn.discordapp.com/emojis/584077157517492234.gif",
+		"tags": ["grin", "smile", "laugh"]
+	},
+	"sad-panda": {
+		"name": "Sad Panda",
+		"url": "https://cdn.discordapp.com/emojis/1084001714140614737.gif",
+		"tags": ["sad", "panda"]
+	},
+	"cat-pat": {
+		"name": "cat pat",
+		"url": "https://cdn.discordapp.com/emojis/747264106494689281.webp",
+		"tags": ["cat", "pat"]
+	},
+	"komi-wow": {
+		"name": "Komi Wow",
+		"url": "https://cdn.discordapp.com/emojis/1100061641246257232.gif",
+		"tags": ["komi", "wow", "smile"]
+	},
+	"bugs-no": {
+		"name": "Bugs No",
+		"url": "https://cdn.discordapp.com/emojis/1243158848068653066.webp",
+		"tags": ["bugs", "no"]
+	},
+	"face-palm": {
+		"name": "Face Palm",
+		"url": "https://cdn.discordapp.com/emojis/749090716235595787.webp",
+		"tags": ["face palm", "disappointed"]
+	},
+	"cute-cat": {
+		"name": "Cute cat",
+		"url": "https://cdn.discordapp.com/emojis/1139020292237299842.webp",
+		"tags": ["cute", "cat"]
+	},
+	"cute-stare": {
+		"name": "Cute Stare",
+		"url": "https://cdn.discordapp.com/emojis/1247051654092816385.webp",
+		"tags": ["cute", "stare", "look"]
+	}
+}
