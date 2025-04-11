@@ -1,0 +1,21 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./bot_database.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model RepAction {
+  id        Int      @id @default(autoincrement())
+  action    String
+  gifs      ActionGif[]
+}
+
+model ActionGif {
+  id         Int       @id @default(autoincrement())
+  url        String
+  repAction  RepAction @relation(fields: [actionId], references: [id])
+  actionId   Int
+}

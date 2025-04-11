@@ -1,11 +1,23 @@
 {
-  "name": "gif-repl",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "discord.js": "^14.16.3",
-    "dotenv": "^16.4.5",
-    "string-similarity": "^4.0.4"
-  }
+	"name": "techno",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"@prisma/client": "^6.0.1",
+		"discord.js": "^14.16.3",
+		"dotenv": "^16.4.5",
+		"prisma": "^6.0.1",
+		"sqlite": "^5.1.1",
+		"string-similarity": "^4.0.4"
+	},
+	"devDependencies": {
+		"@types/node": "^22.10.1",
+		"tsx": "^4.19.3",
+		"typescript": "^5.7.2"
+	},
+	"type": "module",
+	"scripts": {
+		"dev": "tsx index.ts"
+	}
 }
